@@ -1,4 +1,4 @@
-open SmallCTypes
+open MiniCTypes
 open Parser
 open Lexer
 
