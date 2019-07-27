@@ -1,4 +1,4 @@
-open SmallCTypes
+open MiniCTypes
 open TokenTypes
 
 let string_of_token (t : token) : string = match t with
