@@ -1,4 +1,4 @@
-open SmallCTypes
+open MiniCTypes
 open Utils
 open TokenTypes
 
