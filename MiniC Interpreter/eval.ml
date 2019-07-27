@@ -1,4 +1,4 @@
-open SmallCTypes
+open MiniCTypes
 open EvalUtils
 
 exception TypeError of string
