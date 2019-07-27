@@ -1,3 +1,3 @@
 MINI C
 
-Mini C is a C-like prgramming language. The project includes an interpreter, lexer and parser. 
+Mini C is a C-like prgramming language. The project is an Ocaml program which includes an interpreter, lexer and parser. 
